@@ -1,0 +1,10 @@
+[
+  {"conversations": [
+    {"from": "human", "value": "What is the capital of France?"},
+    {"from": "gpt",   "value": "Paris."}
+  ]},
+  {"conversations": [
+    {"from": "human", "value": "What is your name"},
+    {"from": "gpt",   "value": "HALL 9000."}
+  ]}
+]
